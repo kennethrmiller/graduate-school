@@ -1,3 +1,4 @@
+use schooldb;
 insert into staff values 
     (1, 'Principal', 'Greg', 'Harrberger', 'Male', '1990-12-30', '123 Plum Parkway', 3036573214, 'Brookfly$lyfe', 45000, '2004-07-28'),
     (2, 'Assistant Principal', 'Lisa', 'Baker', 'Female', '1980-04-14', '340 Strawberry Street', 6306568214, 'iluvkids', 40000, '2001-08-24'), 
