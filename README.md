@@ -1,5 +1,5 @@
 # databases-SQL
-### This is a repository that I use to store various SQL scripts and snippets that I've created while learning SQL.
+### This contains a small number of SQL scripts for which I have data and for which the data is small enough to fit within GitHub's requirements.
 
 #### school
 The *school* folder contains a thorough creation of a database for an imaginary school from start to finish, including queries of necessary business information.
